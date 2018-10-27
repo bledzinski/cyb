@@ -1,0 +1,12 @@
+Sprawozdanie z Lab2 - Cyberbezpieczeństwo - 27/10/2018
+
+
+
+1. Serwer FTP – serwer umożliwiający wymianę plików z komputerami za pomocą protokołu komunikacyjnego FTP.
+2. Serwer WWW - program działający na serwerze internetowym, obsługujący żądania protokołu komunikacyjnego HTTP i HTTPS.
+3. Serwer DNS - (ang. Domain Name System) jest serwerem WWW, wykorzystywany do interakcji z systemem nazw domenowych, który jest światowym katalogiem nazw domenowych i odpowiadających im adresów IP.
+4. SMTP - (ang. Simple Mail Transfer Protocol) – protokół komunikacyjny opisujący sposób przekazywania poczty elektronicznej w Internecie.
+5. POP3 (ang. Post Office Protocol)- rotokół internetowy z warstwy aplikacji pozwalający na odbiór poczty elektronicznej ze zdalnego serwera do lokalnego komputera poprzez połączenie TCP/IP.
+6. Serwer NTP - specjalizowany serwer dostarczający wzorcowy czas UTC do komputerów za pomocą sieci lokalnej lub rozległej.
+7. Protokół Network Time Protocol (NTP) – protokół synchronizacji czasu, którego czwarta wersja jest zdefiniowana w RFC 5905.
+8. Serwer AAA - (ang. authentication, authorization, and accounting) serwer odpowiedzialny za  uwierzytelnianie (jest procesem, w którym weryfikowana jest legalność posiadania danej tożsamości), autoryzacje (określa, podejmowanie jakich działań jest dozwolone przez posiadacza tożsamości - po jego uwierzytelnieniu w ramach poszczególnych systemów kontroli dostępu) i kontrole dostępu ( to mechanizm określający uprawnienia dostępu do poszczególnych obiektów, przyznawane poszczególnym podmiotom zabezpieczeń na podstawie tożsamości).
